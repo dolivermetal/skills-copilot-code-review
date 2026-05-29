@@ -217,7 +217,7 @@ initial_teachers = [
 
 initial_announcements = [
     {
-        "message": "Bem-vindos ao semestre! As inscricoes para atividades estao abertas.",
+        "message": "Bem-vindos ao semestre! As inscrições para atividades estão abertas.",
         "start_date": None,
         "expires_at": datetime.now(timezone.utc) + timedelta(days=30),
         "created_by": "principal",
